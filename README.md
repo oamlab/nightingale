@@ -22,6 +22,12 @@
 
 *[国内访问请使用国内资料仓gitee入口，点击进入](https://gitee.com/oamlab/nightingale)
 
+## 🔋 仓库联系人
+| 姓名						 |联系方式|
+|----------|-----------------|
+| **况波**   |   1214966109@qq.com |
+| **李渊荣**  |   584194788@qq.com |
+
 ## 🔒 背景
 - XXX
 
@@ -42,6 +48,7 @@
 - 提交代码路径：个人分支 >> develop >> main
 - 譬如：develop_AndyYao_202301 >> develop >> main
 - 为了方便做代码评审，每次最多提交5个代码文件，每次最多提交200行代码。
+- [使用SSH的方式连接GitHub](https://github.com/oamlab/oamlab/blob/main/OAMLab/171_%E8%BF%90%E7%BB%B4%E5%B7%A5%E5%85%B7/301_%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/211_GitHub_SSH_Key.md)
 
 ## 🆓 版权说明
 - 原软件或依赖软件仍保持其原有授权。
