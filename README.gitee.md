@@ -17,10 +17,10 @@
 ---
 
 ## 🌏 前言
-- [在线文档：https://github.com/oamlab/nightingale](https://github.com/oamlab/nightingale)
+- [在线文档：https://gitee.com/oamlab/nightingale](https://gitee.com/oamlab/nightingale)
 - [Online Documentation：https://github.com/oamlab/nightingale](https://github.com/oamlab/nightingale/blob/main/README.English.md)
 
-*[国内访问请使用国内资料仓gitee入口，点击进入](https://gitee.com/oamlab/nightingale)
+*[国际访问请使用国际资料仓github入口，点击进入](https://github.com/oamlab/nightingale)
 
 ## 🔒 背景
 - XXX
