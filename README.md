@@ -1,5 +1,5 @@
 
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Use for Nightingale v0.1.0</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Use Nightingale v0.1.0</h1>
 <h4 align="center">OAM Use Nightingale</h4>
 <p align="center">
   <a href="./LICENSE"><img alt="license" src="https://img.shields.io/github/license/oamlab/nightingale" /></a>
