@@ -34,10 +34,14 @@
 
 ## 📚 Currently Sharing Content：
 
+- [Directory](./nightingale)
 - [Value Analysis](./nightingale/3011_Value_Analysis)
 - [Compile or Package](./nightingale/3021_Compile_or_Package)
 - [Deploy Config](./nightingale/3061_Deploy_Config)
 - [Performance Testing](./nightingale/3121_Performance_Testing)
+- ...
+- ..
+- .
 
 ## 📶 Technical Exchange Club
 (CN)SHENZHEN OAM CLUB, QQ group：216589280 [Click to join](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
