@@ -29,21 +29,22 @@
 | **李渊荣**  |   584194788@qq.com |
 
 ## 🔒 背景
-- XXX
+- 企业基础设施资源及容器需要监控。
 
 ## 🔑 用途
-- XXX
+- 用于建立监控平台，监控企业基础设施资源及容器。
 
 ## 📚 当前分享内容：
 
 - [目录](./nightingale)
-- [价值分析](./nightingale/3011_Value_Analysis)
-- [编译取包](./nightingale/3021_Compile_or_Package)
-- [部署配置](./nightingale/3061_Deploy_Config)
-- [性能测试](./nightingale/3121_Performance_Testing)
+- [部署方法](./nightingale/3051_Deploy_Method)
 - ...
 - ..
 - .
+
+## 📃 其他资料
+- 资料1：https://github.com/oamlab/oamlab/tree/main/OAMLab/401_%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C/2022-11
+- 资料2：https://github.com/oamlab/oamlab/tree/main/OAMLab/401_%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C/2023-02
 
 ## 📶 技术交流群
 深圳运维圈 QQ交流群：216589280 [点击加入](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
