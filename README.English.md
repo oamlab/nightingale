@@ -27,21 +27,22 @@
 | **Li Yuanrong**  |   584194788@qq.com |
 
 ## 🔒 Background
-- XXX
+- Enterprise infrastructure resources and containers need to be monitored.
 
 ## 🔑 Purpose
-- XXX
+- Used to establish a monitoring platform to monitor enterprise infrastructure resources and containers.
 
 ## 📚 Currently Sharing Content：
 
 - [Directory](./nightingale)
-- [Value Analysis](./nightingale/3011_Value_Analysis)
-- [Compile or Package](./nightingale/3021_Compile_or_Package)
-- [Deploy Config](./nightingale/3061_Deploy_Config)
-- [Performance Testing](./nightingale/3121_Performance_Testing)
+- [Deploy Method](./nightingale/3051_Deploy_Method)
 - ...
 - ..
 - .
+
+## 📃 Others
+- Part 1: https://github.com/oamlab/oamlab/tree/main/OAMLab/401_%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C/2022-11
+- Part 2: https://github.com/oamlab/oamlab/tree/main/OAMLab/401_%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C/2023-02
 
 ## 📶 Technical Exchange Club
 (CN)SHENZHEN OAM CLUB, QQ group：216589280 [Click to join](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
